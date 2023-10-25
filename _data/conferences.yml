@@ -3,7 +3,7 @@
 - title: ISCA
   year: 2024
   id: isca24  # title as lower case + last two digits of year
-  link: http://iscaconf.org/isca2024/
+  link: https://www.iscaconf.org/isca2024/submit/papers.php  
   abstract_deadline: '2024-11-14 23:59:59'
   deadline: '2023-11-21 23:59:59'
   timezone: UTC-12
