@@ -81,5 +81,3 @@ It uses:
 [16]: https://deadlines.openlifescience.ai/
 [17]: https://hci-deadlines.github.io/
 [18]: https://ds-deadlines.github.io
-# HPArch-gatech.github.io
-# HPArch-gatech.github.io
