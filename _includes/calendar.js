@@ -126,16 +126,26 @@ function load_conference_list() {
   return conf_list_all;
 }
 
+
+
 function update_filtering(data) {
   store.set('{{site.domain}}-subs', data.subs);
 
   conf_list = conf_list_all.filter(v => {
     var commonValues = data.subs.filter(function (value) {
+      if (value == 'TBD') return false;
       return v.subject.indexOf(value) > -1;
     });
     var subject_match = commonValues.length > 0;
     return subject_match;
   });
+
+  if (!data.subs.includes('TBD')) {
+      conf_list = conf_list.filter(v => {
+          return v.subject.indexOf('TBD') <= -1;
+      });
+      console.log(conf_list)
+  }
 
   // rerender calendar
   calendar_data['dataSource'] = conf_list;  // need to update only this
@@ -147,3 +157,26 @@ function update_filtering(data) {
     window.history.pushState('', '', page_url + '/?sub=' + data.subs.join());
   }
 }
+
+
+// function update_filtering(data) {
+//   store.set('{{site.domain}}-subs', data.subs);
+
+//   conf_list = conf_list_all.filter(v => {
+//     var commonValues = data.subs.filter(function (value) {
+//       return v.subject.indexOf(value) > -1;
+//     });
+//     var subject_match = commonValues.length > 0;
+//     return subject_match;
+//   });
+
+//   // rerender calendar
+//   calendar_data['dataSource'] = conf_list;  // need to update only this
+//   calendar = new Calendar("#calendar-page", calendar_data);
+
+//   if (subs.length == 0) {
+//     window.history.pushState('', '', page_url);
+//   } else {
+//     window.history.pushState('', '', page_url + '/?sub=' + data.subs.join());
+//   }
+// }
