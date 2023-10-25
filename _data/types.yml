@@ -1,9 +1,9 @@
 ---
 - name: Computer Architecture
-  sub: ML
+  sub: Arch
   color: "#ffd300"
 - name: Computer System
-  sub: CV
+  sub: Sys
   color: "#deff0a"
 # - name: Computer Graphics
 #   sub: CG
