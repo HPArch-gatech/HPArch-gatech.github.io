@@ -66,7 +66,7 @@
 - title: DATE
   year: 2024
   id: date24  # title as lower case + last two digits of year
-  link: https://www.date-conference.com/
+  link: https://www.dac.com/Conference/2024-Call-for-Contributions
   deadline: '2023-09-25 23:59:59'
   timezone: UTC-12
   place: Valencia, Spain
@@ -108,7 +108,7 @@
 - title: ASPLOS (Spring)
   year: 2024
   id: asplos24spring
-  link: https://asplos-conference.org/
+  link: https://www.asplos-conference.org/asplos2024/cfp/
   deadline: '2023-04-20 15:00:00'
   timezone: UTC-4
   place: California, USA
