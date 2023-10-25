@@ -1,13 +1,12 @@
-title: AI Conference Deadlines
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines
+title: Architecture & System Conference Deadlines 
+description: Countdowns to top Computer Architecture & System conference deadlines
 author: Abhishek Das
 
-domain: "aideadlin.es"
+domain: "HPArch-gatech.github.io"
 baseurl: ""
 
-twitter_hashtag: machinelearning
-github_username: paperswithcode
-github_repo: ai-deadlines
+github_username: HPArch-gatech
+github_repo: HPArch-gatech.github.io
 
 markdown: kramdown
 ga_id:
