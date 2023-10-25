@@ -7,9 +7,9 @@
   abstract_deadline: '2024-11-14 23:59:59'
   deadline: '2023-11-21 23:59:59'
   timezone: UTC-12
-  place: TBD
-  date: TBD
-  sub: [ TBD, ARCH ]
+  place: Buenos Aires, Argentina
+  date: June 29 - July 3
+  sub: [ ARCH ]
 
 - title: EuroSys (Spring)
   year: 2024
@@ -38,9 +38,9 @@
   abstract_deadline: '2024-11-30 17:59:59'
   deadline: '2023-12-13 17:59:59'
   timezone: EST
-  place: TBD
-  date: TBD
-  sub: [ TBD, SYS ]
+  place: SANTA CLARA, CA, USA
+  date: July, 10-12, 2024
+  sub: [ SYS ]
 
 - title: DAC
   year: 2024
@@ -49,9 +49,9 @@
   abstract_deadline: '2024-11-13 16:59:59'
   deadline: '2023-11-21 16:59:59'
   timezone: UTC-8
-  place: TBD
-  date: TBD
-  sub: [ TBD, ARCH ]
+  place: San Francisco, CA, USA
+  date: June 23-27, 2024
+  sub: [ARCH ]
 
 - title: MLSys
   year: 2024
@@ -61,7 +61,7 @@
   timezone: UTC-4
   place: Santa Clara, CA, USA
   date: May, 13-16, 2024
-  sub: [ TBD, SYS ]
+  sub: [ SYS ]
 
 - title: DATE
   year: 2024
@@ -71,7 +71,7 @@
   timezone: UTC-12
   place: Valencia, Spain
   date: March, 25-27, 2024
-  sub: [ TBD, ARCH ]
+  sub: [  ARCH ]
 
 
 - title: IISWC
