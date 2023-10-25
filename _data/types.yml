@@ -1,10 +1,25 @@
 ---
-- name: Computer Architecture
-  sub: Arch
+# - name: Computer Architecture
+#   sub: Arch
+#   color: "#ffd300"
+# - name: Computer System
+#   sub: Sys
+#   color: "#deff0a"
+
+- name: Architecture
+  sub: ARCH
   color: "#ffd300"
-- name: Computer System
-  sub: Sys
+- name: System
+  sub: SYS
   color: "#deff0a"
+- name: Other
+  sub: OTHER
+  color: "#0aefff"
+- name: To be determined
+  sub: TBD
+  color: "#147df5"
+
+
 # - name: Computer Graphics
 #   sub: CG
 #   color: "#0aefff"
