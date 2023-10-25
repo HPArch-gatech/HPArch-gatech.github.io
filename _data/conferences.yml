@@ -34,7 +34,7 @@
 - title: OSDI
   year: 2024
   id: osdi24  # title as lower case + last two digits of year
-  link: https://www.usenix.org/conference/osdi24
+  link:  https://www.usenix.org/conference/osdi24/call-for-papers
   abstract_deadline: '2024-11-30 17:59:59'
   deadline: '2023-12-13 17:59:59'
   timezone: EST
@@ -62,6 +62,20 @@
   place: Santa Clara, CA, USA
   date: May, 13-16, 2024
   sub: [ SYS ]
+
+
+
+- title: ATC
+  year: 2024
+  id: atc24  # title as lower case + last two digits of year
+  link: https://www.usenix.org/conference/atc24/call-for-papers
+  abstract_deadline: '2024-01-09 23:59:59'
+  deadline: '2024-01-16 23:59:59'
+  timezone: UTC+0
+  place: Santa Clara, CA, USA
+  date: July, 10-12, 2024
+  sub: [ SYS ]
+
 
 - title: DATE
   year: 2024
