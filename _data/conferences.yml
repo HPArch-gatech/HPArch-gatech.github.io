@@ -10,6 +10,18 @@
   place: Buenos Aires, Argentina
   date: June 29 - July 3
   sub: [ ARCH ]
+  note: Important
+
+- title: ISPASS 
+  year: 2024
+  id: ispass24  # title as lower case + last two digits of year
+  link: https://ispass.org/ispass2024/ 
+  deadline: '2023-12-18 23:59:59'
+  timezone: UTC-12
+  place: Indianapolis, Indiana
+  date: May, 5-7, 2024
+  sub: [ ARCH, SYS ]
+
 
 - title: EuroSys (Spring)
   year: 2024
