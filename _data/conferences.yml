@@ -12,13 +12,40 @@
   sub: [ ARCH ]
   note: Important
 
+
+- title: FCCM
+  year: 2024
+  id: fccm24  # title as lower case + last two digits of year
+  link: https://www.fccm.org/
+  deadline: '2024-01-15 23:59:59'
+  timezone: UTC-12
+  place: Orlando, FL, USA
+  date: May, 5-8, 2024
+  sub: [ ARCH ]
+
+
+
+- title: FPGA
+  year: 2024
+  id: fpga24  # title as lower case + last two digits of year
+  link: https://www.isfpga.org/
+  deadline: '2023-10-13 23:59:59'
+  timezone: UTC-12
+  place: 400 Cannery Row, Monterey, CA
+  date: March, 3-5, 2024
+  sub: [ ARCH ]
+
+
+
+
+
 - title: ISPASS 
   year: 2024
   id: ispass24  # title as lower case + last two digits of year
   link: https://ispass.org/ispass2024/ 
   deadline: '2023-12-18 23:59:59'
   timezone: UTC-12
-  place: Indianapolis, Indiana
+  place: Indianapolis, Indiana, USA
   date: May, 5-7, 2024
   sub: [ ARCH, SYS ]
 
