@@ -12,6 +12,11 @@
 - name: System
   sub: SYS
   color: "#deff0a"
+
+- name: Security
+  sub: SEC
+  color: "#3293a8"
+
 - name: Other
   sub: OTHER
   color: "#0aefff"
