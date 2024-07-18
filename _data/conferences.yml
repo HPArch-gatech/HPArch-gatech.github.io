@@ -46,18 +46,6 @@
 # 2024
 
 
-
-- title: S&P (Fall)
-  year: 2025
-  id: sp25fall
-  link: https://sp2025.ieee-security.org/cfpapers.html
-  deadline: '2024-10-23 23:59:00'
-  timezone: UTC-12
-  place: Rotterdam, The Netherlands
-  date: Mar,30 - April 3 2025
-  sub: [ SYS ]
-
-
 - title: Eurosys (Fall)
   year: 2025
   id: eurosys25fall
