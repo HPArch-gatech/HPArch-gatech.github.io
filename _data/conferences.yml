@@ -53,7 +53,7 @@
   deadline: '2024-10-23 23:59:00'
   timezone: UTC-4
   place: Rotterdam, The Netherlands
-  date: Mar,30 - April 3 2025
+  date: Mar 30 - April 3 2025
   sub: [ SYS ]
 
 - title: ASPLOS (Fall)
@@ -63,7 +63,7 @@
   deadline: '2024-10-11 23:59:00'
   timezone: UTC-4
   place: Rotterdam, The Netherlands
-  date: Mar,30 - April 3 2025
+  date: Mar 30 - April 3 2025
   sub: [ ARCH, SYS ]
 
 
@@ -75,7 +75,7 @@
   deadline: '2024-08-02 06:59:59'
   timezone: UTC
   place: Las Vegas, United States.
-  date: March, 1-5, 2025
+  date: March 1-5, 2025
   sub: [ ARCH ]
 
 
