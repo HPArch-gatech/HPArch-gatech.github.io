@@ -26,7 +26,7 @@
 
 - title: S&P (Cycle1)
   year: 2025
-  id: sp25cycle2
+  id: sp25cycle1
   link: https://sp2025.ieee-security.org/cfpapers.html
   deadline: '2024-06-06 23:59:00'
   timezone: UTC-12
