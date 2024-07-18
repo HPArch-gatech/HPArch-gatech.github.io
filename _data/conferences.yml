@@ -34,7 +34,7 @@
   date: May,12 - May 15 2025
   sub: [ SEC ]
 
-  - title: S&P (Cycle2)
+- title: S&P (Cycle2)
   year: 2025
   id: sp25cycle2
   link: https://www.usenix.org/conference/usenixsecurity25/call-for-papers
